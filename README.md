@@ -18,7 +18,7 @@ For base line approach there are following libraries which are needed.
 For revised approach there are following libraries which are needed.
 
 * os - default library of python
-* nstall computervision or CV2 from [here](https://www.pyimagesearch.com/2015/06/22/install-opencv-3-0-and-python-2-7-on-ubuntu/) 
+* Install computervision or CV2 from [here](https://www.pyimagesearch.com/2015/06/22/install-opencv-3-0-and-python-2-7-on-ubuntu/) 
 * time - default library of python
 * argparse - default library of python
 * multiprocessing - default library of python
